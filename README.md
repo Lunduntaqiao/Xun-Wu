@@ -90,7 +90,7 @@ http {
 }
 ```
 Note: Please modify this line to the root path of your back-end project <br>
-![image](https://user-images.githubusercontent.com/Lunduntaqiao/Picture/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220515151416.png)  <br>
-
+![image](https://user-images.githubusercontent.com/Lunduntaqiao/Picture/blob/main/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20220515151416.png) 
+![image](https://user-images.githubusercontent.com/103989093/166082568-bc09727c-3c68-4014-a4a7-d6617623b742.png) <br>
 #### Initiate
 * Run the `main` fuction in `com.cpt202.xunwu.XunWuApplication`
