@@ -4,9 +4,8 @@ Introduction:
 2. Front-end project of xunwu online shopping mall system, based on HTML + jQuery, including user information, commodity release, commodity display, shopping cart and other modules. 
 Development Environment：
 ======================
+表头  | 表头  | 表头
+ ---- | ----- | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容  
 
- |version|download|
----- | ----- | ------ 
-JDK | 11 |	https://www.oracle.com/java/technologies/downloads/#java11
-Mysql |	8.0 |	https://dev.mysql.com/downloads/installer/
-Mysql |	8.0 |	https://dev.mysql.com/downloads/installer/
