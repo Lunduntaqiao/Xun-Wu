@@ -83,14 +83,14 @@ http {
         listen  7070;
         server_name  localhost;
 	    location /uploadProdPics/ {
-		root D:/project/xun-wu;
+		root C:/Users/Administrator/Desktop/nginx-1.20.2/html/xun-wu;
 		#autoindex on;
 	    }
     }
 }
 ```
 Note: Please modify this line to the root path of your back-end project <br>
-![image](https://user-images.githubusercontent.com/103989093/166082568-bc09727c-3c68-4014-a4a7-d6617623b742.png) <br>
+ <br>
 
 #### Initiate
 * Run the `main` fuction in `com.cpt202.xunwu.XunWuApplication`
